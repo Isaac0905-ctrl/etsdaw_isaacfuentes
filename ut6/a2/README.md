@@ -64,19 +64,19 @@ Adjunta una captura de pantalla de la terminal de:
 
 + Varias notas:
 
-![](/img/001.png)
+![](img/001.png)
 
 + Una sola nota:
 
-![](/img/002.png)
+![](img/002.png)
 
 + Lista vacía
 
-![](/img/003.png)
+![](img/003.png)
 
 + Nota fuera de rango
 
-![](/img/004.png)
+![](img/004.png)
 
 ### Uso de **assert**
 
