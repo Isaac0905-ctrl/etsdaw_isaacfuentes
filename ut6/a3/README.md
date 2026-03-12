@@ -113,7 +113,7 @@ Tras añadir los nuevos tests debes volver a ejecutar `pytest --cov` e intentar 
 
 Adjunta a continuación una captura de pantalla de la covertura alcanzada después de incluir los nuevos test:
 
-![Cobertura de tests](/img/001.png)
+![Cobertura de tests](img/001.png)
 
 ## Entrega
 
